@@ -1,0 +1,20 @@
+time =                    0
+	reg[0] = xxxxxxxx
+	reg[1] = xxxxxxxx
+	reg[2] = xxxxxxxx
+	reg[3] = xxxxxxxx
+	reg[4] = xxxxxxxx
+	reg[5] = xxxxxxxx
+	reg[6] = xxxxxxxx
+	reg[7] = xxxxxxxx
+
+time =                  160
+	reg[0] = 00000001
+	reg[1] = 00000010
+	reg[2] = 00000011
+	reg[3] = 00000000
+	reg[4] = 00000000
+	reg[5] = 00000000
+	reg[6] = 00000000
+	reg[7] = 00000000
+
